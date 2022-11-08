@@ -1,3 +1,8 @@
+participantes:
+Leandro Marecos
+Agustin Sbernini
+Maximiliano Geronimo
+
 BETA: 
 A. Queda con todos los archivos, despues de hacer cada "merge" correspondiente
 B. Si pude verlo.
@@ -20,3 +25,15 @@ F. Desde la rama main.
 	6. git add .
 	7. git commit
 	8. git push
+
+ALFA:
+
+G. Desde la rama main.
+
+1. git pull
+2. git branch -a
+3. git checkout Marecos
+4. vim beta.txt (agrego los datos que me da ifconfig y los cerro con :wq)
+5. git add .
+6. git commit -m "mensaje"
+7. git push
