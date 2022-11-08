@@ -1,0 +1,9 @@
+BETA: 
+A. Queda con todos los archivos, despues de hacer cada "merge" correspondiente
+B. Si pude verlo.
+C. 1. git pull
+   2. git branch -a
+   3. git checkout main
+   4. git merge Sbernini
+   5. git push
+	
