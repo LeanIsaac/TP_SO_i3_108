@@ -7,3 +7,16 @@ C. 1. git pull
    4. git merge Sbernini
    5. git push
 	
+
+GAMMA:
+D. No, no estan actualizadas. La rama de GAMMA no tiene los commits hechos posteriormente en las otras ramas. La rama BETA no tiene los commits que se hicieron en el main para las respuestas.
+E. Ningún problema ocurrió. Ya que no hubo conflictos en los archivos porque no modificamos las mismas lineas desde dos branchs distintas.
+F. Desde la rama main.
+	1. git pull
+	2. git branch -a
+	3. git checkout Marecos
+	4. vim beta.txt (agregar los datos al archivo y cerrar con :wq)
+	5. git status
+	6. git add .
+	7. git commit
+	8. git push
